@@ -1,0 +1,2 @@
+# philovisu
+Philosopher Network Visualization

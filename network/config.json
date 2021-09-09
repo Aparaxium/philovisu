@@ -8,23 +8,23 @@
     "text": "Austin"
   },
   "text": {
-    "more": "IDK Yet",
-    "intro": "IDK Yet",
-    "title": "Philo"
+    "more": "A network graph representation of philosopher influence gathered from wikipedia.",
+    "intro": "Philosopher Influence.",
+    "title": "PhiloVisu"
   },
   "legend": {
     "edgeLabel": "Influences",
-    "colorLabel": "IDK",
+    "colorLabel": "Number of people influenced",
     "nodeLabel": "Person"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "color",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
-    "imageAttribute": "Label"
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {

@@ -17,5 +17,5 @@ if __name__ == '__main__':
     pos=nx.spring_layout(G, k = 10/math.sqrt(len(nodes)))
     
     nx.draw_networkx(G, pos, node_size=sizes, with_labels=True, font_size='2', arrowsize=0, width=.01)
-    nx.write_gexf(G, "test.gexf")
+    nx.write_gexf(G, "networkx/test.gexf")
     plt.show()

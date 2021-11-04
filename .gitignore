@@ -130,3 +130,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Config folders
+.*
+
+# Sqlite3 database artifacts.
+*.db-shm
+*.db-wal

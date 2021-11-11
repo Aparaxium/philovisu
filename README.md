@@ -1,3 +1,2 @@
 # philovisu
-Philosopher Network Visualization  
-[https://aparaxium.github.io/philovisu/network/](https://aparaxium.github.io/philovisu/network/)
+Philosopher Network Visualization Scraper
